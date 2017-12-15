@@ -8,6 +8,7 @@ We rely on the core infrastructure of the Internet, namely, domain names. Each u
 
 If a specific organization or individual registers membership with more than one backbone organization, then all the data, including user registration, is synchronized across the servers run by these backbone organizations.
 
+### Example
 For example, if we have a company `Hello World, Inc.` in the U.S., which has domain `helloworld.com, wonderworld.org`, and it signs membership agreement with `Global Mind Share, Inc.` (a backbone organization), by paying a yearly fee, then all users, whose e-mail address ends with domains (`@helloworld.com, @wonderworld.org`) get the right to log-in to the servers run by `Global Mind Share, Inc.`. On the other hand, if `Hello World, Inc.` decides to, on behalf of at least one of the same domain names (e.g., `helloworld.com`), to sign up for a membership agreement with `WeFindX Foundation CLG` , which is an backbone organization in Ireland that runs servers in Europe, then all the content that is created by the users with e-mail addresses ending with `@helloworld.com` are synchronized among the servers of these backbone organizations.
 
 ## Definitions
