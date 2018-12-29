@@ -1,6 +1,6 @@
 # Infinity Family
 
-Infinity Family is a group of individuals and organizations, that collectively work on the [Infinity Project](https://infinity.family), the purpose of which is to help humanity collectively define and pursue goals. Our bet is that by integrating meta-vocabulary (such as [wefindx](http://wefindx.net/)) and a meta-language, and creating a blockchain-based work results and time recording system, we could enable humanity to systematically define conditions to optimize for, and make know-how accessible.
+Infinity Family is a group of individuals and organizations, that collectively work on the [Infinity Project](https://infinity.family) - an initiative to enable humanity collectively and systematically define and pursue goals. Our bet is that by integrating meta-vocabulary (such as [wefindx](http://wefindx.net/)) and a meta-language, and creating a blockchain-based work results and time recording system, we could enable humanity to systematically define conditions to optimize for, and make know-how accessible.
 
 The structure of the organization of Infinity Family is designed to reflect our multi-faceted world, and is designed to allow every jurisdiction to independently run its software on servers within that jurisdiction, meanwhile, allowing for ease of automatic data integration of data for collective decisions.
 
